@@ -1,7 +1,7 @@
 
 # Portifolio
 ## Um pouco sobre Luiz Vaz
-Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com os Cursos em Vídeos do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **html**, **css**,**Javascript**,  e estou começando a aprender sobre **banco de dados e react**. Possuo noções básicas do do Figma e Pacote Adobe, **Photoshop e Illustrator**  e estou trabalhando como assistente de Design.
+Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com o Curso em Vídeo do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **HTML**, **CSS**,**Javascript**,  e estou aprofundando conhecimentos em **banco de dados e React**. Possuo noções básicas do **Figma** e **Pacote Adobe**( **Photoshop e Illustrator**)  e estou trabalhando como assistente de Design Grafico.
 Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www.cursoemvideo.com/), e na [Origamid](https://www.origamid.com/).
 
 ## Projetos feitos
@@ -36,7 +36,7 @@ Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www
 **projeto:**
 
 ### Los Cuadraditos
-**descrição:-   "**Projeto em andamento:**  Um site feito em  **HTML**,  **CSS**  e  **JavaScript**  para uma browneria. O cardápio é apresentado em um formulário que envia uma mensagem para o WhatsApp do estabelecimento com o pedido do cliente (nome, opção de retirada ou entrega) e o preço total. O site também permite que o cliente solicite um orçamento para encomendas."
+**descrição:**   **Projeto em andamento:**  Um site feito em  **HTML**,  **CSS**  e  **JavaScript**  para uma browneria. O cardápio é apresentado em um formulário que envia uma mensagem para o WhatsApp do estabelecimento com o pedido do cliente (nome, opção de retirada ou entrega) e o preço total. O site também permite que o cliente solicite um orçamento para encomendas.
 **Link:** [Los cuadraditos](https://luizvazz1.github.io/brownie/)
 
 Markdown 2314 bytes 271 words 42 lines Ln 16, Col 12HTML 1338 characters 259 words 27 paragraphs
