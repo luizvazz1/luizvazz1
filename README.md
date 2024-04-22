@@ -1,13 +1,13 @@
 
 # Portifolio
 ## Um pouco sobre Luiz Vaz
-Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com o Curso em Vídeo do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **HTML**, **CSS**,**Javascript** e estou aprofundando conhecimentos em **banco de dados e React**. Possuo noções básicas do **Figma**, **Pacote Adobe** (**Photoshop e Illustrator**) e trabalho meio período como assistente de Design Gráfico.
+Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com o Curso em Vídeo do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **HTML**, **CSS**, **Javascript** e estou aprofundando conhecimentos em **banco de dados e React**. Possuo noções básicas do **Figma**, **Pacote Adobe** (**Photoshop e Illustrator**) e trabalho meio período como assistente de Design Gráfico.
 Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www.cursoemvideo.com/), e na [Origamid](https://www.origamid.com/).
 
 ## Projetos feitos
 
 ### Site Android
- Um site feito em **html** e **css** durante o curso do **Curso em Video.**  
+ Um site feito em **HTML** e **CSS** durante o curso do **Curso em Video.**  
 **Link:** [Android](https://luizzvaz.github.io/android/)
 
 ------------------------------
@@ -28,9 +28,9 @@ Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www
 ----------
 
 ### Pequenos projetos feitos
- Pequenos projetos em .NET de **testes unitários** feitos durante um curso da DIO.  
+ Pequenos projetos em .NET de **testes unitários** feitos durante o curso na DIO.  
 **links:**
-[teste unitario](https://github.com/luizzvaz/trilha-net-testes-unitarios-desafio/tree/main/TestesUnitarios.Desafio.Tests) e [Desafio de lógica de programação em C#](https://github.com/luizzvaz/trilha-net-poo-desafio)
+[teste unitário](https://github.com/luizzvaz/trilha-net-testes-unitarios-desafio/tree/main/TestesUnitarios.Desafio.Tests) e [Desafio de lógica de programação em C#](https://github.com/luizzvaz/trilha-net-poo-desafio)
 
 -------
 
