@@ -1,7 +1,7 @@
 
 # Portifolio
 ## Um pouco sobre Luiz Vaz
-Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com o Curso em Vídeo do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **HTML**, **CSS**,**Javascript**,  e estou aprofundando conhecimentos em **banco de dados e React**. Possuo noções básicas do **Figma** e **Pacote Adobe**( **Photoshop e Illustrator**)  e estou trabalhando como assistente de Design Grafico.
+Oi, sou Luiz Felipe Vaz (@luizvazz1), tenho 27 anos e sou graduando de Análise e Desenvolvimento de Sistemas pela UNIASSELVI. Estou no 3º período e em busca de um estágio.  Comecei estudando lógica de programação com o Curso em Vídeo do professor   [Gustavo guanabara](https://www.cursoemvideo.com/). Tenho habilidades em  **HTML**, **CSS**,**Javascript** e estou aprofundando conhecimentos em **banco de dados e React**. Possuo noções básicas do **Figma**, **Pacote Adobe** (**Photoshop e Illustrator**) e trabalho meio período como assistente de Design Gráfico.
 Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www.cursoemvideo.com/), e na [Origamid](https://www.origamid.com/).
 
 ## Projetos feitos
