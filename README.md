@@ -39,5 +39,14 @@ Fiz alguns cursos na [Dio](https://www.dio.me/), no [Curso em video](https://www
 **Projeto em andamento:**  Um site feito em  **HTML**,  **CSS**  e  **JavaScript**  para uma browneria. O cardápio é apresentado em um formulário que envia uma mensagem para o WhatsApp do estabelecimento com o pedido do cliente (nome, opção de retirada ou entrega) e o preço total. O site também permite que o cliente solicite um orçamento para encomendas.  
 **Link:** [Los cuadraditos](https://luizvazz1.github.io/brownie/)
 
+--------
+## Contatos
+### [LinkedIn ](https://www.linkedin.com/in/luiz-vaz-9510ab29b/)
+### email: luizvaz.estudo@gmail.com
+### telefone/what'sapp: (81) 98712-5116
+
+
+
+
 Markdown 2314 bytes 271 words 42 lines Ln 16, Col 12HTML 1338 characters 259 words 27 paragraphs
 You've earned 1 badge: "Side preview toggler".
